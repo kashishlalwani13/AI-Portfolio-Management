@@ -26,6 +26,9 @@ pip install -r requirements.txt
 
 - Example Results
 Model &	MSE
+
 XGBoost	0.0796
+
 LSTM	0.0003
+
 ARIMA	1.8457
