@@ -14,17 +14,17 @@ This project implements a **risk-aware capital allocation engine** for public eq
 ## Installation
 pip install -r requirements.txt
 
-##Usage
+- Usage
 1. Place stocks.zip in data/ and unzip.
 2. Open notebooks/portfolio_optimization.ipynb.
 
-##Run cells to:
+- Run cells to:
 1. Load & clean data
 2. Train forecasting models
 3. Optimize portfolio
 4. Launch Gradio app
 
-##Example Results
+- Example Results
 Model &	MSE
 XGBoost	0.0796
 LSTM	0.0003
